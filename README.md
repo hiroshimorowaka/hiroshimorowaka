@@ -7,7 +7,7 @@ Quando eu fiz 17 anos me chamara pra fazer um pequeno sistema de controle de pre
 - 🚀 Stack preferida: Back-end com Node.js
 - 👨‍💻 Linguagem mais fluente: Javascript   
 
-[![Anurag's GitHub stats](https://github-readme-stats-sooty-xi-86.vercel.app/api?username=hiroshimorowaka&hide=contribs&theme=dracula&show_icons=true)](https://github.com/hiroshimorowaka/)
+[![Anurag's GitHub stats](https://github-readme-stats-sooty-xi-86.vercel.app/api?username=hiroshimorowaka&hide=contribs,stars&theme=dracula&show_icons=true)](https://github.com/hiroshimorowaka/)
 <hr>
 
 
