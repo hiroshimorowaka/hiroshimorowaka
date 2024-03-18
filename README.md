@@ -3,9 +3,9 @@
 Comecei a programar alguns joguinhos bobos quando eu tinha 12 anos.   
 Quando eu fiz 17 anos me chamara pra fazer um pequeno sistema de controle de preçoas e etiquetas em Delphi de um super-mercado local da minha cidade e depois dessa experiência eu decidi finalmente aprender a programar DE VERDADE, com fundamentos.
 
-- 📚 Atualmente estudando Node.js, Bun, Next.js e React
+- 📚 Atualmente estudando Next.js, React, Rust e Golang
 - 🚀 Stack preferida: Back-end
-- 👨‍💻 Linguagem mais fluente: Javascript   
+- 👨‍💻 Linguagem mais fluente: Javascript/Typescript   
 
 [![Hiroshi's GitHub stats](https://github-readme-stats-sooty-xi-86.vercel.app/api?username=hiroshimorowaka&hide=contribs,stars&theme=dracula&show_icons=true)](https://github.com/hiroshimorowaka/)
 ![Hiroshi's GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=hiroshimorowaka&layout=compact&langs_count=7&theme=onedark)
