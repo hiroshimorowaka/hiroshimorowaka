@@ -2,10 +2,8 @@
 
 Dev iniciante, já trabalhei em projetos comerciais utilizando Delphi e atualmente estudo e trabalho em um projetinho web em Typescript 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermecabral1204@gmail.com)](mailto:guilhermecabral1204@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cabral-130689254/)](https://www.linkedin.com/in/guilherme-cabral-130689254/)
-
-
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guilhermecabral1204@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-cabral-130689254/)
 
 
 ## Bem-vindo! 👋
