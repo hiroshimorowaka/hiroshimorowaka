@@ -1,6 +1,6 @@
 # Guilherme Cabral
 
-Dev iniciante, já trabalhei em projetos comerciais utilizando Delphi e atualmente estudo e trabalho em um projetinho web em Typescript 
+Dev iniciante, já trabalhei em projetos comerciais utilizando Delphi. Atualmente estudo programação e trabalho em faço alguns Free-lancers Web
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guilhermecabral1204@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-cabral-130689254/)
@@ -16,7 +16,7 @@ Dev iniciante, já trabalhei em projetos comerciais utilizando Delphi e atualmen
 ## Stack Principal 💻
 [![Main Tech Stack](https://skillicons.dev/icons?i=next,ts,bun,nodejs)](https://skillicons.dev)
 ## Tools
-[![Main Tech Stack](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)
+[![Toolsk](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)
 
 
 
