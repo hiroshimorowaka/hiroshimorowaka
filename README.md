@@ -1,6 +1,6 @@
 # Bem-vindo! 👋
 
-Sou um desenvolvedor iniciante com 1 ano de experiência, já trabalhei em projetos comerciais utilizando Delphi e Typescript. Atualmente estudo programação e trabalho em alguns Free-lancers Web
+Sou um desenvolvedor de software, já trabalhei em projetos comerciais utilizando Delphi e Typescript. Atualmente estudo e trabalho em alguns Free-lancers Web
 
 - :green_heart: Técnologias: Node.JS, Typescript, Go, Rust...
 - :green_book: Databases: MySQL, PostgreSQL (❤️)
