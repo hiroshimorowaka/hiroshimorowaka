@@ -1,6 +1,6 @@
 # Bem-vindo! 👋
 
-Sou um desenvolvedor de software, já trabalhei em projetos comerciais utilizando Delphi e Typescript. Atualmente estudo e trabalho em alguns Free-lancers Web
+Sou um desenvolvedor de software. Atualmente trabalho como DEV WEB Back-end.
 
 - :green_heart: Técnologias: Node.JS, Typescript, Go, Rust...
 - :green_book: Databases: MySQL, PostgreSQL (❤️)
