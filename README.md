@@ -2,9 +2,9 @@
 
 Sou um desenvolvedor de software. Atualmente trabalho como Desenvolvedor Mobile/Back-end.
 
-- :green_heart: Técnologias: Kotlin, Typescript, Java...
+- :green_heart: Técnologias: Kotlin, Typescript, Java, Rust...
 - :green_book: Databases: MySQL, PostgreSQL (❤️)
-- :books: Estudando: Design Patterns, Testes automatizados, Rust e Golang
+- :books: Estudando: Design Patterns, Testes automatizados, Golang
 
 ## Contatos
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-cabral-130689254/)
