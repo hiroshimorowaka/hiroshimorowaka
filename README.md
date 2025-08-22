@@ -1,8 +1,8 @@
 # Bem-vindo! 👋
 
-Sou um desenvolvedor de software. Atualmente trabalho como DEV WEB Back-end.
+Sou um desenvolvedor de software. Atualmente trabalho como Desenvolvedor Mobile/Back-end.
 
-- :green_heart: Técnologias: Node.JS, Typescript, Go, Rust...
+- :green_heart: Técnologias: Kotlin, Typescript, Java...
 - :green_book: Databases: MySQL, PostgreSQL (❤️)
 - :books: Estudando: Design Patterns, Testes automatizados, Rust e Golang
 
@@ -18,4 +18,3 @@ Sou um desenvolvedor de software. Atualmente trabalho como DEV WEB Back-end.
 
 [![Hiroshi's GitHub stats](https://github-readme-stats-sooty-xi-86.vercel.app/api?username=hiroshimorowaka&hide=contribs,stars&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/hiroshimorowaka/)
 ![Hiroshi's GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=hiroshimorowaka&layout=compact&langs_count=8&theme=onedark&hide=css)
-
