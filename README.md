@@ -3,7 +3,7 @@
 Sou um desenvolvedor de software. Atualmente trabalho como Desenvolvedor Mobile/Back-end.
 
 - :green_heart: Técnologias: Kotlin, Typescript, Java, Rust...
-- :green_book: Databases: MySQL, PostgreSQL (❤️)
+- :green_book: Databases: MySQL, PostgreSQL ❤️
 - :books: Estudando: Design Patterns, Testes automatizados, Golang
 
 ## Contatos
@@ -11,7 +11,7 @@ Sou um desenvolvedor de software. Atualmente trabalho como Desenvolvedor Mobile/
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guilhermecabral1204@gmail.com)
 
 ## Stack Principal
-[![Main Tech Stack](https://skillicons.dev/icons?i=ts,nextjs,nodejs,bun)](https://skillicons.dev)
+[![Main Tech Stack](https://skillicons.dev/icons?i=kotlin,java,ts,nextjs,nodejs)](https://skillicons.dev)
 
 ## Tools
 [![ToolsKit](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)
