@@ -3,7 +3,7 @@
 Sou um desenvolvedor de software. Atualmente trabalho como Desenvolvedor Mobile/Back-end.
 
 - :green_heart: Técnologias: Kotlin, Typescript, Java, Rust...
-- :green_book: Databases: MySQL, PostgreSQL ❤️
+- :green_book: Databases: MySQL, PostgreSQL
 - :books: Estudando: Design Patterns, Testes automatizados, Golang
 
 ## Contatos
